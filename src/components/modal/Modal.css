@@ -1,0 +1,35 @@
+.modal-btn{
+    width: 400px;
+    height: 50px;
+    font-size:17px ;
+    background-color: #621be6;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.modal{
+    text-align: center;
+
+}
+.modal-title{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: white;
+}
+.answers{
+    color: white;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+    text-align: start;
+    border: 1px black solid;
+    padding: 20px;
+}
